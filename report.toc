@@ -1,0 +1,15 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Basics of Fuzzy Logic}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Fuzzy Set}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Membership Function}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}If-Then Rule Structure}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Basic Fuzzy Control System Structure}{6}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Applications of Fuzzy Logic}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Medical Sciences}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Control Systems}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Decision Support Systems}{9}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Advantages and Challenges}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Advantages}{10}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Challenges}{10}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Trends and Future Directions}{12}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{13}{chapter.6}%
